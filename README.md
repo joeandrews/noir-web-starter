@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Noir Web Starter
 
 This project requires you to feed in the `acir` and `witness` in hex form. You also need to feed in the `circuit_size` to the nearest power of 2. You can grab this form the noir/circuits folder in your noir project.
 
