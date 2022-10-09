@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Getting Started with Noir
+
+# Noir Tips
+
+This project needs you to read in the `acir` and `witness` in hex form to work.
+
+This is a known limitation that will be fixed soon.
+
+You will also need to feed in the ci
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

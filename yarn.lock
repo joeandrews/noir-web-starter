@@ -8580,10 +8580,10 @@ node-releases@^2.0.6:
   resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.6.tgz#8a7088c63a55e493845683ebf3c828d8c51c5503"
   integrity sha512-PiVXnNuFm5+iYkLBNeq5211hvO38y63T0i2KKh2KnUs3RpzJ+JtODFjkD8yjLwnDkTYF1eKXheUwdssR+NRZdg==
 
-noir-js-bogota@1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/noir-js-bogota/-/noir-js-bogota-1.0.3.tgz#41dc05e598c38b1b934ddb4e5eb5692887ae39b4"
-  integrity sha512-rO/3JdEYLAtr/Mcek8227GFFRKnh3OtLdytyFzC3I7Q9l2s7gmyqxdYz2w4VKKdYmDhzug0nXCkaFkyJDwaOxw==
+noir-js-bogota@1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/noir-js-bogota/-/noir-js-bogota-1.0.4.tgz#8023d6de939875389ccedcddecf4766d057fcc69"
+  integrity sha512-RD2EE6qeHS1n547ysp9DUqf+SA/p+s5nNVyyFC0PVi8GdfRTK4PHuhf6Rzp3+7DBwdLfuLDgMtaVwuRfq4QPWg==
   dependencies:
     "@noir-lang/aztec_backend" "0.12.0"
     "@noir-lang/barretenberg" "2.22.0"

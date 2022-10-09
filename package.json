@@ -15,7 +15,7 @@
     "react-scripts": "4.0.3",
     "typescript": "^4.4.2",
     "web-vitals": "^2.1.0",
-    "noir-js-bogota": "1.0.3"
+    "noir-js-bogota": "1.0.4"
   },
   "scripts": {
     "start": "react-scripts start",
